@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Andy (AnhDuc-creator)
+# Hi there 👋, I'm Aiden (AnhDuc-creator)
 
 > *"Ship it, measure it, then make it simpler."*
 
@@ -7,8 +7,9 @@
 # 💫 About Me:
 
 - My full name is **Nguyễn Anh Đức**.
-- My university is **Trường Công nghệ Thông tin và Truyền thông - ĐH Bách khoa Hà Nội**.
-- Major: **Computer Science** — focused on full-stack and applied AI.
+- My university is **School of Information and Communication Technology, Hanoi University of Science and Technology (HUST)**.
+- Major: **Computer Science** - focused on full-stack and applied AI.
+- Currently in the **Vingroup–VinUni "AI thực chiến" (20,000 AI Talent)** program.
 - Email contact: **nguyen1308duc@gmail.com**.
 - Currently, I'm working across full-stack web systems, LLM agents, and DevOps.
 
@@ -17,7 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duck-marstian)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/duck.marstian)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyen1308duc@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://)
 
 # 💻 Tech Stack:
 
@@ -34,35 +34,30 @@
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02303A?style=flat-square&logo=swagger&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-**LLM · Agents**
+**AI & Data**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-**Data & DevOps**
+**DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
@@ -71,15 +66,16 @@
 # 🚀 Selected Projects
 
 - **[HDQ Cinema](https://github.com/AnhDuc-creator/HDQ-Cinema):** Full-stack cinema booking system. React + Vite frontend with interactive seat selection, Spring Boot + PostgreSQL backend secured by JWT, orchestrated with Docker Compose. Started on a `json-server` mock and migrated to real APIs so the contract was designed before the implementation.
-- **[AIMS](https://github.com/AnhDuc-creator/ISD.20252-06):** Angular + Spring Boot e-commerce system with VietQR payment integration. Built around an explicit design layer — SOLID, Factory Method, Strategy, Observer, State, Adapter — with an SRS reviewed against IEEE 830 and a full UML set.
-- **Personal Offline-First AI Agent** *(in progress)*: A phone-only assistant for a non-technical user. Thin-client + self-hosted server over Tailscale, with offline caching, so no code and no keys ever live on the user's device.
+- **[AIMS](https://github.com/AnhDuc-creator/ISD.20252-06):** Angular + Spring Boot e-commerce system with VietQR payment integration. Built around an explicit design layer - SOLID, Factory Method, Strategy, Observer, State, Adapter — with an SRS reviewed against IEEE 830 and a full UML set.
+- **[Vietnamese Traffic-Sign Classification](https://github.com/AnhDuc-creator/Introduction-to-Artificial-Intelligent-Project):** Image classifier for Vietnamese road signs, built by fine-tuning VGG16 on a locally collected label set. OpenCV handles the preprocessing pipeline; the write-up reports per-class results rather than a single headline accuracy, since the class distribution is uneven. Notebook on [Kaggle](https://www.kaggle.com/code/duckool/final-hanh).
 
 ---
 
-# 💼 Experience
+# 🎓 Education & Training
 
-**<THỰC TẬP SINH> | <VINUNI - ĐÀO TẠO NHÂN TÀI AI THỰC CHIẾN>** *(<7/2026>)*
-- Cập nhật sau.
+**Vingroup–VinUni "AI thực chiến" (20,000 AI Talent)** *(2026 – Present)*
+- Hands-on labs on LLM tool calling, LangGraph, and multi-agent orchestration.
+- Built a 7-agent system that resolves e-commerce complaint cases, keeping all numeric reasoning in deterministic Python functions and leaving the model only tool selection and final judgement.
 
 ---
 
