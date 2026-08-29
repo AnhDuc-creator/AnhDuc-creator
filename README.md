@@ -2,6 +2,8 @@
 
 > *"Ship it, measure it, then make it simpler."*
 
+<img src="banner.gif" width="100%" alt="banner" />
+
 ---
 
 # 💫 About Me:
